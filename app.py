@@ -1,3 +1,2 @@
-print('Hello from AWS')
-Second change
-Second change
+print("Hello from AWS")
+print("Second change")
